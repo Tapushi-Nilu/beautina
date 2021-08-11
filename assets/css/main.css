@@ -1,0 +1,100 @@
+/* 
+Small devices (portrait phones,less then 576px)
+*/
+
+@media (max-width: 575.98px){
+
+    .box-price {
+        padding: 110px 80px;
+    }
+    #block {
+        background-image: url(../img/bg7.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        height: 110vh;
+        background-attachment: fixed;
+    }
+  
+  }
+    /* 
+  Small devices (landscape phones, 576px and up)
+    */
+    
+    @media (min-width: 576px) and (max-width: 767.98px) {
+        #block {
+            background-image: url(../img/bg7.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 110vh;
+            background-attachment: fixed;
+        }
+  
+  
+  
+  
+  
+  
+  
+    }
+    /* 
+  Medium devices (tablets, 768px and up)
+    */
+    
+    @media (min-width: 768px) and (max-width: 991.98px) {
+
+        #block {
+            background-image: url(../img/bg7.jpg);
+            background-size: cover;
+            background-repeat: no-repeat;
+            height: 110vh;
+            background-attachment: fixed;
+        }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    }
+    /* 
+  Large devices (Desktops, 992px and up)
+    */
+    
+    @media (min-width: 992px) and (max-width: 1199.98px) {
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+    }
+  
+    /* 
+  Extra large devices (large desktops, 1200px and up)
+    */
+    
+    @media (min-width: 1200px) {
+  
+
+  
+  
+  
+    }
+  
+  
+  
+  
+  
+  
